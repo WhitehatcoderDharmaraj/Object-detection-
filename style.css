@@ -1,6 +1,7 @@
 body{
     background-size:cover ;
     background-position: center;
+    background:linear-gradient(45deg, #ff0000 0%,#fac905 100%);
     }
     
     
@@ -14,4 +15,8 @@ body{
     #status
     {
     font-size: 18px;
+    }
+
+    a{
+        
     }
